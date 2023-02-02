@@ -1,0 +1,4 @@
+indicadores úteis: (Base de Indicadores = Variável)
+ 
+    - https://sidra.ibge.gov.br/tabela/5938 ()
+     
